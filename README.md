@@ -6,7 +6,7 @@ Template Flask + Bootstrap 5
 Arborescence
 
 ```
-project
+template-flask
 │   README.md
 |   app.py
 │   requirements.txt    

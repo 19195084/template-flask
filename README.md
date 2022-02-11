@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 Launch 
 ```
-python3 app.py
+flask run
 ```
 
 deactivate the virtual environnement

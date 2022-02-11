@@ -23,11 +23,21 @@ template-flask
 |
 ```
  
+## Commands
 
+in folder 'template-flask' 
 
-Launch the app
+```python
+python3 -m venv venv 
+```
 
+```python
+pip install -r requirements.txt  
+```
 
+```python
+python3 app.py
+```
 
 ## Documentation 
 

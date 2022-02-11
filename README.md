@@ -27,16 +27,29 @@ template-flask
 
 in 'template-flask' folder
 
+Create venv folder 
 ```
 python3 -m venv venv 
 ```
 
+Activate the virtual environnement
+```
+source venv/bin/activate 
+```
+
+install requiered python modules
 ```
 pip install -r requirements.txt  
 ```
 
+Launch 
 ```
 python3 app.py
+```
+
+deactivate the virtual environnement
+```
+deactivate 
 ```
 
 ## Documentation 

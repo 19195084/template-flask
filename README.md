@@ -54,7 +54,7 @@ deactivate
 
 ## Documentation 
 
-+ [Documentation Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/){:target="_blank"} 
-+ [Documentation Flask](https://flask.palletsprojects.com/en/2.0.x/){:target="_blank"}
-+ [Cheat sheet Python venv](https://aaronlelevier.github.io/virtualenv-cheatsheet/){:target="_blank"}
++ [Documentation Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
++ [Documentation Flask](https://flask.palletsprojects.com/en/2.0.x/)
++ [Cheat sheet Python venv](https://aaronlelevier.github.io/virtualenv-cheatsheet/)
 

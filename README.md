@@ -39,7 +39,7 @@ source venv/bin/activate
 
 install requiered python modules
 ```
-pip install -r requirements.txt  
+pip3 install -r requirements.txt  
 ```
 
 Launch 

@@ -37,7 +37,7 @@ Activate the virtual environnement
 source venv/bin/activate 
 ```
 
-install requiered python modules
+install required python modules
 ```
 pip3 install -r requirements.txt  
 ```

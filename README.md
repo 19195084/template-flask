@@ -18,8 +18,6 @@ template-flask
 │       │   script.js
 │   └───templates
 │       │   index.html
-│   └───img
-│       | 
 |
 ```
  

@@ -20,7 +20,7 @@ template-flask
 │       │   index.html
 |
 ```
- 
+
 ## Commands
 
 in 'template-flask' folder
@@ -35,17 +35,17 @@ Activate the virtual environnement
 source venv/bin/activate 
 ```
 
-install required python modules
+Install required python modules
 ```
 pip3 install -r requirements.txt  
 ```
 
-Launch 
+Launch app
 ```
 flask run
 ```
 
-deactivate the virtual environnement
+Deactivate the virtual environnement
 ```
 deactivate 
 ```
